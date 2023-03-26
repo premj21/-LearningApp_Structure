@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/-LearningApp_Structure/static/css/main.dc65397f.css",
-    "main.js": "/-LearningApp_Structure/static/js/main.8793e8d9.js",
+    "main.js": "/-LearningApp_Structure/static/js/main.e848ba16.js",
     "static/media/ach.png": "/-LearningApp_Structure/static/media/ach.73140a297db3b1e3b81c.png",
     "static/media/friyansh.jpg": "/-LearningApp_Structure/static/media/friyansh.157cac9ba4f4695df069.jpg",
     "static/media/—Pngtree—teaching thinking thinking flat learning_4517540.png": "/-LearningApp_Structure/static/media/—Pngtree—teaching thinking thinking flat learning_4517540.7467f89da3a9aeedc24c.png",
@@ -14,10 +14,10 @@
     "static/media/Fratham.jpg": "/-LearningApp_Structure/static/media/Fratham.42b01fa0ce2a0f320734.jpg",
     "index.html": "/-LearningApp_Structure/index.html",
     "main.dc65397f.css.map": "/-LearningApp_Structure/static/css/main.dc65397f.css.map",
-    "main.8793e8d9.js.map": "/-LearningApp_Structure/static/js/main.8793e8d9.js.map"
+    "main.e848ba16.js.map": "/-LearningApp_Structure/static/js/main.e848ba16.js.map"
   },
   "entrypoints": [
     "static/css/main.dc65397f.css",
-    "static/js/main.8793e8d9.js"
+    "static/js/main.e848ba16.js"
   ]
 }
