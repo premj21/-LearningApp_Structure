@@ -75,8 +75,8 @@ const AllCourses = () => {
     flexDirection='column'
     alignItems={'center'}
     justifyContent='center'
-    w={{base:'291px',md:'200px',lg:'291px'}}
-    maxW={'291px'}
+    w={{base:'291px',md:'200px',lg:'260px'}}
+
     pb='1.5rem'
     mb='1rem'
     >

@@ -34,11 +34,10 @@ const Navbar = () => {
     display={'flex'}
     flexDirection='column'
     border={'1px solid white'}
-    
     >
       <a 
        style={{padding:'1rem',background:'black',color:'white'}}
-      href='./About'>Home</a>
+      href='./'>Home</a>
       <a 
         style={{padding:'1rem',background:'black',color:'white'}}
       href='./Course'>Courses</a>
