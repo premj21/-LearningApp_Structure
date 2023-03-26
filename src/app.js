@@ -14,9 +14,9 @@ const App = () =>{
     <Navbar/>
     <Routes>
       <Route exact path = '/' element={<Home/>}> </Route>
-      <Route exact path = '/learningapp-8e4j.onrender.com/Course' element={<AllCourses/>}> </Route>
-      <Route exact path = '/learningapp-8e4j.onrender.com/About' element={<About/>}> </Route>
-      <Route exact path = '/learningapp-8e4j.onrender.com/Contact' element={<Contact/>}> </Route>
+      <Route exact path = 'https://learningapp-8e4j.onrender.com/Contact' element={<AllCourses/>}> </Route>
+      <Route exact path = 'https://learningapp-8e4j.onrender.com/About' element={<About/>}> </Route>
+      <Route exact path = 'https://learningapp-8e4j.onrender.com/Contact' element={<Contact/>}> </Route>
     </Routes>
     </section>
     <Futr/>
