@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/-LearningApp_Structure/static/css/main.dc65397f.css",
+    "main.js": "/-LearningApp_Structure/static/js/main.aa226956.js",
+    "static/media/ach.png": "/-LearningApp_Structure/static/media/ach.73140a297db3b1e3b81c.png",
+    "static/media/friyansh.jpg": "/-LearningApp_Structure/static/media/friyansh.157cac9ba4f4695df069.jpg",
+    "static/media/—Pngtree—teaching thinking thinking flat learning_4517540.png": "/-LearningApp_Structure/static/media/—Pngtree—teaching thinking thinking flat learning_4517540.7467f89da3a9aeedc24c.png",
+    "static/media/Frem.jpg": "/-LearningApp_Structure/static/media/Frem.29ee24b87ea0faaede57.jpg",
+    "static/media/striver.jpg": "/-LearningApp_Structure/static/media/striver.a91496bc17db50e96154.jpg",
+    "static/media/kshitij.jpg": "/-LearningApp_Structure/static/media/kshitij.24492f25332ff5985581.jpg",
+    "static/media/yashraj.jpg": "/-LearningApp_Structure/static/media/yashraj.5f93f9b3ba43cd6c3ebd.jpg",
+    "static/media/Franav.jpg": "/-LearningApp_Structure/static/media/Franav.aa99e9e16fcfa4ee8c3e.jpg",
+    "static/media/contact.png": "/-LearningApp_Structure/static/media/contact.3fa93fb0405ef1ad5bb8.png",
+    "static/media/Fratham.jpg": "/-LearningApp_Structure/static/media/Fratham.42b01fa0ce2a0f320734.jpg",
+    "index.html": "/-LearningApp_Structure/index.html",
+    "main.dc65397f.css.map": "/-LearningApp_Structure/static/css/main.dc65397f.css.map",
+    "main.aa226956.js.map": "/-LearningApp_Structure/static/js/main.aa226956.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc65397f.css",
+    "static/js/main.aa226956.js"
+  ]
+}
