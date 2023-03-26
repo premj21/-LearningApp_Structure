@@ -19,7 +19,6 @@ const App = () =>{
       <Route exact path = '/learningapp-8e4j.onrender.com/Contact' element={<Contact/>}> </Route>
     </Routes>
     </section>
-
     <Futr/>
     </>
   )

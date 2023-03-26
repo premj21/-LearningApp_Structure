@@ -55,10 +55,14 @@ const Navbar = () => {
      >
     <motion.a  {...opnt}  style={{fontSize:"2.3vmax",fontWeight:"430"}} href='/'>NameProj</motion.a>
  <HStack gap={'4rem'} display={{base:'none',md:'flex' }} >
-    <li> <motion.a  {...opnt}transition={{ delay: 0.7 }} style={{fontSize:"1.22vmax"}}  href='./'>Home</motion.a></li>
-    <li> <motion.a  {...opnt} transition={{ delay: 0.6 }}style={{fontSize:"1.22vmax"}}  href='./Course'>Course</motion.a></li>
-    <li> <motion.a  {...opnt} transition={{ delay: 0.4 }}  style={{fontSize:"1.22vmax"}}  href='./About'>About</motion.a></li>
-    <li> <motion.a  {...opnt}transition={{ delay: 0.5 }} style={{fontSize:"1.22vmax"}} href='./Contact'>Contact</motion.a></li>
+    <li> <motion.a  {...opnt}transition={{ delay: 0.7 }} style={{fontSize:"1.22vmax"}} 
+     href='/learningapp-8e4j.onrender.com'>Home</motion.a></li>
+    <li> <motion.a  {...opnt} transition={{ delay: 0.6 }}style={{fontSize:"1.22vmax"}}  
+    href='/learningapp-8e4j.onrender.com/Course'>Course</motion.a></li>
+    <li> <motion.a  {...opnt} transition={{ delay: 0.4 }}  style={{fontSize:"1.22vmax"}} 
+     href='/learningapp-8e4j.onrender.com/About'>About</motion.a></li>
+    <li> <motion.a  {...opnt}transition={{ delay: 0.5 }} style={{fontSize:"1.22vmax"}} 
+    href='/learningapp-8e4j.onrender.com/Contact'>Contact</motion.a></li>
  </HStack>
 
 
